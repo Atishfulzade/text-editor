@@ -24,6 +24,10 @@ This project is a simple text editor built using React and Draft.js. It allows u
 - Click the "Save" button to save your changes.
 - Your text modifications will be saved locally and restored when you revisit the page.
 
+## Deployment
+
+This project is deployed and accessible online. You can try it out [here](https://rmqqsd-5173.csb.app/).
+
 ## Technologies Used
 
 - React
