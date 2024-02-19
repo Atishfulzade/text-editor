@@ -14,7 +14,7 @@ This project is a simple text editor built using React and Draft.js. It allows u
 
 1. Clone this repository to your local machine.
 2. Install dependencies by running `npm install`.
-3. Start the development server with `npm start`.
+3. Start the development server with `npm run dev`.
 4. Open your browser and navigate to `http://localhost:3000`.
 
 ## Usage
